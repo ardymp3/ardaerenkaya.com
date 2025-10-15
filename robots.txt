@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ardymp3.github.io/ardaerenkaya/sitemap.xml
+Sitemap: https://ardymp3.github.io/ardaerenkaya.com/sitemap.xml
