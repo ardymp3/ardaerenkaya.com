@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>.
 
 profile:
   align: right
@@ -27,4 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Arda Eren Kaya is a sound engineer and musician based in Istanbul, Turkey. He is currently studying Music Technology at Bahçeşehir University. He has composed music for various theater productions and short films, and works as a freelancer creating music for video games, theater productions, and short films.
+Arda Eren Kaya is a sound engineer and musician based in Istanbul, Turkey, currently studying Music Technology at Bahçeşehir University.
+Since 2019, he has been creating music and sound effects for video games and theater productions.
+He has worked on games like Breaworlds, Cubix Worlds, and Ritzy Poker, as well as theater and short film projects such as Kassandra, Marinus’un Cesur Çocukları, and Paper Trails. Alongside composition, he’s also involved in mixing and recording.
